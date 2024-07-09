@@ -23,6 +23,8 @@ O comando acima, executado no PowerShell, como administrador, irá instalar toda
 ### VirtualBox
 O VirtualBox é um Hypervisor tipo 2 muito conhecido pela sua praticidade e por não ter custo. Muito útil para criação de laboratórios mais complexos onde são necessários diversos sistemas se comunicando via rede. Sua instalação é muito simples, como qualquer software no Windows, basta realizar o download do instalador [aqui](https://www.virtualbox.org/wiki/Downloads) e executá-lo.
 
+Baixe também o ``Extension Pack``, disponível na mesma página e o instale após o VirtualBox estar funcionando.
+
 #### Vagrant
 Aliado ao VirtualBox, vamos utilizar o programa Vagrant, que é um utilitário que permite realizar a codificação da infraestrutura (aquilo que você deve ter ouvido como IaC, Infra as Code, Infraestrutura como código), pode ser algo que pareça avançado, mas acredite em mim, é o que o mercado demanda. E estudar Linux nunca foi uma tarefa fácil mesmo.
 
