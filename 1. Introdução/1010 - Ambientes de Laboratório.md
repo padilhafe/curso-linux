@@ -52,6 +52,8 @@ Mas Felipe, as outras plataformas tem máquinas que chamam de sempre gratuitas, 
 
 Se cadastre usando este [link](https://m.do.co/c/a008414ecfc9) e receba seus 200 USD de créditos.
 
+Atenção! Você não precisa realizar o cadastro agora, pois vamos usar apenas nos módulos de bootcamp.
+
 #### Terraform
 Assim como usaremos o Vagrant para provisionar a nossa infraestrutura local, usaremos o Terraform para provisionar a nossa infraestrutura em nuvem. E advinhe só, ele é da mesma empresa do Vagrant!
 
