@@ -20,6 +20,18 @@ wsl --install
 
 O comando acima, executado no PowerShell, como administrador, irá instalar todas as dependências necessárias e configurar uma distribuição Ubuntu no computador.
 
+#### Oh My ZSH
+Oh My ZSH é um emulador de terminal que facilita (muito) a vida de quem precisa utilizar a CLI do Linux diariamente. Além de ser mais colorido que o Bash, que é o terminal padrão (todos sabemos que o pesosal de TI gosta de terminais e leds coloridos).
+
+Sua instalação é bem simples, bastando copiar e colocar os comandos abaixo:
+```bash
+sudo apt update -y
+sudo apt install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+Digitando sua senha de usuário quando for solicitado e, após o último comando, confirmando pressionando Y. Assita ao vídeo caso deseje ver como alterar o tema padrão do terminal, mas não é um passo necessário.
+
 ### VirtualBox
 O VirtualBox é um Hypervisor tipo 2 muito conhecido pela sua praticidade e por não ter custo. Muito útil para criação de laboratórios mais complexos onde são necessários diversos sistemas se comunicando via rede. Sua instalação é muito simples, como qualquer software no Windows, basta realizar o download do instalador [aqui](https://www.virtualbox.org/wiki/Downloads) e executá-lo.
 
